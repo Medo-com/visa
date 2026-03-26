@@ -241,7 +241,7 @@ Input is sanitized and truncated (name/email: 200 chars, subject: 300 chars, mes
 ## Setup
 
 ```sh
-git clone https://github.com/yourusername/visa-atlas.git
+git clone https://github.com/medo-com/visa-atlas.git
 cd visa-atlas
 npm install
 npm start
@@ -257,9 +257,4 @@ Server starts on `http://localhost:3000` (or `PORT` env variable).
 | `SMTP_USER` | No | Gmail address for contact email delivery |
 | `SMTP_PASS` | No | Gmail app password for SMTP authentication |
 
----
-
-## License
-
-MIT
 
