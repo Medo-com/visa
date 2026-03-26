@@ -1,0 +1,15 @@
+{
+  "name": "travel-visa-assistant",
+  "version": "1.0.0",
+  "description": "Travel Visa & Transit Requirement Assistant",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemailer": "^8.0.4"
+  }
+}

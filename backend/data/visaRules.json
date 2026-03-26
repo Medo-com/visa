@@ -1,0 +1,5889 @@
+{
+  "countries": [
+    "Afghanistan",
+    "Albania",
+    "Algeria",
+    "Argentina",
+    "Armenia",
+    "Australia",
+    "Austria",
+    "Azerbaijan",
+    "Bahrain",
+    "Bangladesh",
+    "Belarus",
+    "Belgium",
+    "Bolivia",
+    "Brazil",
+    "Bulgaria",
+    "Cambodia",
+    "Cameroon",
+    "Canada",
+    "Chile",
+    "China",
+    "Colombia",
+    "Costa Rica",
+    "Croatia",
+    "Cuba",
+    "Cyprus",
+    "Czech Republic",
+    "Denmark",
+    "Dominican Republic",
+    "Ecuador",
+    "Egypt",
+    "El Salvador",
+    "Estonia",
+    "Ethiopia",
+    "Finland",
+    "France",
+    "Georgia",
+    "Germany",
+    "Ghana",
+    "Greece",
+    "Guatemala",
+    "Honduras",
+    "Hungary",
+    "Iceland",
+    "India",
+    "Indonesia",
+    "Iran",
+    "Iraq",
+    "Ireland",
+    "Israel",
+    "Italy",
+    "Jamaica",
+    "Japan",
+    "Jordan",
+    "Kazakhstan",
+    "Kenya",
+    "Kuwait",
+    "Laos",
+    "Latvia",
+    "Lebanon",
+    "Libya",
+    "Lithuania",
+    "Luxembourg",
+    "Malaysia",
+    "Maldives",
+    "Mexico",
+    "Moldova",
+    "Mongolia",
+    "Morocco",
+    "Mozambique",
+    "Myanmar",
+    "Nepal",
+    "Netherlands",
+    "New Zealand",
+    "Nicaragua",
+    "Nigeria",
+    "North Korea",
+    "Norway",
+    "Oman",
+    "Pakistan",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Philippines",
+    "Poland",
+    "Portugal",
+    "Qatar",
+    "Romania",
+    "Russia",
+    "Rwanda",
+    "Saudi Arabia",
+    "Senegal",
+    "Serbia",
+    "Singapore",
+    "Slovakia",
+    "Slovenia",
+    "Somalia",
+    "South Africa",
+    "South Korea",
+    "Spain",
+    "Sri Lanka",
+    "Sudan",
+    "Sweden",
+    "Switzerland",
+    "Syria",
+    "Taiwan",
+    "Tanzania",
+    "Thailand",
+    "Tunisia",
+    "Turkey",
+    "UAE",
+    "Uganda",
+    "Ukraine",
+    "United Kingdom",
+    "United States",
+    "Uruguay",
+    "Uzbekistan",
+    "Venezuela",
+    "Vietnam",
+    "Yemen",
+    "Zambia",
+    "Zimbabwe"
+  ],
+  "countryGroups": {
+    "EU_SCHENGEN": [
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland"
+    ],
+    "US_VWP": [
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Chile",
+      "Croatia",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Israel",
+      "Italy",
+      "Japan",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Singapore",
+      "Slovakia",
+      "Slovenia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "UK_VISA_FREE": [
+      "Argentina",
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Brazil",
+      "Bulgaria",
+      "Canada",
+      "Chile",
+      "Costa Rica",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "El Salvador",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Guatemala",
+      "Honduras",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Israel",
+      "Italy",
+      "Jamaica",
+      "Japan",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Malaysia",
+      "Maldives",
+      "Mexico",
+      "Moldova",
+      "Netherlands",
+      "New Zealand",
+      "Nicaragua",
+      "Norway",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Serbia",
+      "Singapore",
+      "Slovakia",
+      "Slovenia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Taiwan",
+      "United States",
+      "Uruguay"
+    ],
+    "STRONG_PASSPORTS": [
+      "Japan",
+      "Singapore",
+      "South Korea",
+      "Germany",
+      "Spain",
+      "Finland",
+      "Italy",
+      "Luxembourg",
+      "Austria",
+      "Denmark",
+      "Ireland",
+      "Netherlands",
+      "Sweden",
+      "France",
+      "Portugal",
+      "United Kingdom",
+      "Belgium",
+      "Norway",
+      "Switzerland",
+      "United States",
+      "Czech Republic",
+      "Greece",
+      "New Zealand",
+      "Australia",
+      "Canada",
+      "Hungary",
+      "Poland"
+    ],
+    "UK_DATV_REQUIRED": [
+      "Afghanistan",
+      "Albania",
+      "Algeria",
+      "Bangladesh",
+      "Belarus",
+      "Cameroon",
+      "China",
+      "Colombia",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "Egypt",
+      "Ethiopia",
+      "Ghana",
+      "India",
+      "Iran",
+      "Iraq",
+      "Jamaica",
+      "Jordan",
+      "Kenya",
+      "Lebanon",
+      "Libya",
+      "Moldova",
+      "Mongolia",
+      "Myanmar",
+      "Nepal",
+      "Nigeria",
+      "North Korea",
+      "Pakistan",
+      "Philippines",
+      "Rwanda",
+      "Senegal",
+      "Serbia",
+      "Somalia",
+      "South Africa",
+      "Sri Lanka",
+      "Sudan",
+      "Syria",
+      "Tanzania",
+      "Thailand",
+      "Tunisia",
+      "Turkey",
+      "Uganda",
+      "Ukraine",
+      "Uzbekistan",
+      "Venezuela",
+      "Vietnam",
+      "Yemen",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "SCHENGEN_ATV_REQUIRED": [
+      "Afghanistan",
+      "Bangladesh",
+      "Ethiopia",
+      "Ghana",
+      "India",
+      "Iran",
+      "Iraq",
+      "Nigeria",
+      "Pakistan",
+      "Somalia",
+      "Sri Lanka",
+      "Syria"
+    ],
+    "CANADA_VISA_EXEMPT": [
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Croatia",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Israel",
+      "Italy",
+      "Japan",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Mexico",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Singapore",
+      "Slovakia",
+      "Slovenia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States"
+    ],
+    "AUSTRALIA_ETA": [
+      "Canada",
+      "Japan",
+      "Malaysia",
+      "Singapore",
+      "South Korea",
+      "United States"
+    ],
+    "AUSTRALIA_EVISA": [
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom"
+    ],
+    "UAE_VOA": [
+      "United States",
+      "United Kingdom",
+      "Canada",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Germany",
+      "France",
+      "Italy",
+      "Spain",
+      "Netherlands",
+      "Belgium",
+      "Austria",
+      "Switzerland",
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland",
+      "Ireland",
+      "Portugal",
+      "Greece",
+      "Luxembourg",
+      "Iceland",
+      "Poland",
+      "Czech Republic",
+      "Hungary",
+      "Romania",
+      "Bulgaria",
+      "Croatia",
+      "Slovakia",
+      "Slovenia",
+      "Estonia",
+      "Latvia",
+      "Lithuania",
+      "Cyprus",
+      "Argentina",
+      "Brazil",
+      "Russia"
+    ],
+    "JAPAN_VISA_FREE": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Australia",
+      "New Zealand",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Costa Rica",
+      "Mexico",
+      "Peru",
+      "Israel",
+      "Malaysia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Turkey",
+      "UAE"
+    ],
+    "MERCOSUR": [
+      "Argentina",
+      "Brazil",
+      "Paraguay",
+      "Uruguay",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "NEW_ZEALAND_VISA_FREE": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Japan",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Singapore",
+      "Slovakia",
+      "Slovenia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Israel",
+      "Malaysia",
+      "Mexico",
+      "UAE"
+    ],
+    "ISRAEL_VISA_FREE": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Australia",
+      "New Zealand",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Japan",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Singapore",
+      "Slovakia",
+      "Slovenia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Mexico",
+      "Panama",
+      "Peru",
+      "Philippines",
+      "Russia",
+      "Serbia",
+      "Ukraine",
+      "Uruguay"
+    ],
+    "LATAM_VISA_FREE": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Israel",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Brazil",
+      "Argentina",
+      "Chile",
+      "Colombia",
+      "Mexico",
+      "Peru",
+      "Uruguay",
+      "Paraguay",
+      "Ecuador",
+      "Bolivia",
+      "Costa Rica",
+      "Panama"
+    ],
+    "EGYPT_VOA": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "France",
+      "Germany",
+      "Italy",
+      "Belgium",
+      "Netherlands",
+      "Austria",
+      "Switzerland",
+      "Norway",
+      "Denmark",
+      "Sweden",
+      "Finland",
+      "Spain",
+      "Portugal",
+      "Greece",
+      "Cyprus",
+      "Czech Republic",
+      "Hungary",
+      "Poland",
+      "Romania",
+      "Bulgaria",
+      "Croatia",
+      "Slovakia",
+      "Slovenia",
+      "Iceland",
+      "Luxembourg",
+      "Latvia",
+      "Lithuania",
+      "Estonia",
+      "Ukraine",
+      "Russia",
+      "Malaysia"
+    ],
+    "JORDAN_VOA": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Netherlands",
+      "Belgium",
+      "Austria",
+      "Switzerland",
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland",
+      "Ireland",
+      "Portugal",
+      "Greece",
+      "Poland",
+      "Czech Republic",
+      "Hungary",
+      "Romania",
+      "Bulgaria",
+      "Croatia",
+      "Singapore",
+      "Malaysia",
+      "Brazil"
+    ],
+    "CAMBODIA_VOA": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Netherlands",
+      "Belgium",
+      "Austria",
+      "Switzerland",
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland",
+      "Ireland",
+      "Portugal",
+      "Greece",
+      "Poland",
+      "Czech Republic",
+      "Hungary",
+      "Romania",
+      "Bulgaria",
+      "Croatia",
+      "Singapore",
+      "Malaysia",
+      "Brazil",
+      "Argentina",
+      "Chile",
+      "Colombia",
+      "Mexico",
+      "Peru",
+      "Russia",
+      "India",
+      "China",
+      "Philippines",
+      "Indonesia",
+      "Thailand",
+      "Vietnam"
+    ],
+    "ETHIOPIA_EVISA": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Netherlands",
+      "Belgium",
+      "Austria",
+      "Switzerland",
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland",
+      "Ireland",
+      "Portugal",
+      "Greece",
+      "Poland",
+      "Czech Republic",
+      "Hungary",
+      "Romania",
+      "Bulgaria",
+      "Croatia",
+      "Singapore",
+      "Malaysia",
+      "Brazil",
+      "Argentina",
+      "Chile",
+      "Colombia",
+      "Mexico",
+      "India",
+      "China",
+      "Russia"
+    ],
+    "KENYA_EVISA": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Netherlands",
+      "Belgium",
+      "Austria",
+      "Switzerland",
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland",
+      "Ireland",
+      "Portugal",
+      "Greece",
+      "Poland",
+      "Czech Republic",
+      "Hungary",
+      "Romania",
+      "Bulgaria",
+      "Croatia",
+      "Singapore",
+      "Malaysia",
+      "Brazil",
+      "Argentina",
+      "Chile",
+      "Colombia",
+      "Mexico",
+      "India",
+      "China"
+    ],
+    "TANZANIA_EVISA": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Netherlands",
+      "Belgium",
+      "Austria",
+      "Switzerland",
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland",
+      "Ireland",
+      "Portugal",
+      "Greece",
+      "Poland",
+      "Czech Republic",
+      "Hungary",
+      "Romania",
+      "Bulgaria",
+      "Croatia",
+      "Singapore",
+      "Malaysia",
+      "Brazil",
+      "Argentina",
+      "India",
+      "China"
+    ],
+    "SAUDI_EVISA": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Malaysia",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland"
+    ],
+    "QATAR_VOA": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Malaysia",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Ireland"
+    ],
+    "OMAN_EVISA": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Austria",
+      "Belgium",
+      "Czech Republic",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Ireland",
+      "China",
+      "Russia"
+    ],
+    "BAHRAIN_EVISA": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Austria",
+      "Belgium",
+      "Czech Republic",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Ireland",
+      "Malaysia",
+      "China",
+      "Russia"
+    ],
+    "RWANDA_VOA": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Netherlands",
+      "Belgium",
+      "Austria",
+      "Switzerland",
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland",
+      "Ireland",
+      "Portugal",
+      "Greece",
+      "Poland",
+      "Czech Republic",
+      "Hungary",
+      "Romania",
+      "Bulgaria",
+      "Croatia",
+      "Singapore",
+      "Malaysia",
+      "Brazil",
+      "Argentina",
+      "India",
+      "China"
+    ],
+    "GEORGIA_VISA_FREE": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Israel",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Mexico",
+      "Peru",
+      "Uruguay",
+      "Iran",
+      "Russia",
+      "Ukraine",
+      "Turkey",
+      "Serbia",
+      "South Africa"
+    ],
+    "SERBIA_VISA_FREE": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Israel",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Cuba",
+      "Mexico",
+      "Peru",
+      "Turkey",
+      "Tunisia",
+      "Russia",
+      "Ukraine",
+      "Georgia",
+      "Albania",
+      "Moldova"
+    ],
+    "ALBANIA_VISA_FREE": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Israel",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Mexico",
+      "Peru",
+      "Turkey",
+      "Serbia",
+      "Moldova",
+      "Russia",
+      "Ukraine",
+      "Georgia"
+    ],
+    "UKRAINE_VISA_FREE": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Israel",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Georgia",
+      "Moldova",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Serbia",
+      "Turkey",
+      "Uruguay"
+    ],
+    "MOROCCO_VISA_FREE": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Mexico",
+      "Peru",
+      "Philippines",
+      "Russia",
+      "Turkey",
+      "Tunisia",
+      "Algeria",
+      "Senegal"
+    ],
+    "TUNISIA_VISA_FREE": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Mexico",
+      "Russia",
+      "Turkey",
+      "Algeria",
+      "Morocco",
+      "Senegal"
+    ],
+    "SOUTH_AFRICA_VISA_FREE": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Israel",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Uruguay",
+      "Jamaica",
+      "Panama",
+      "Ecuador",
+      "Bolivia",
+      "Paraguay"
+    ],
+    "PHILIPPINES_VISA_FREE": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Israel",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Mexico",
+      "Peru",
+      "Morocco",
+      "Turkey"
+    ],
+    "KUWAIT_EVISA": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Austria",
+      "Belgium",
+      "Czech Republic",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Italy",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Ireland"
+    ],
+    "LAOS_VOA": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Netherlands",
+      "Belgium",
+      "Austria",
+      "Switzerland",
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland",
+      "Ireland",
+      "Portugal",
+      "Greece",
+      "Poland",
+      "Czech Republic",
+      "Hungary",
+      "Romania",
+      "Bulgaria",
+      "Croatia",
+      "Singapore",
+      "Malaysia",
+      "Brazil",
+      "Argentina",
+      "Chile",
+      "Colombia",
+      "Mexico",
+      "India",
+      "China",
+      "Russia"
+    ],
+    "MOZAMBIQUE_VOA": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Netherlands",
+      "Belgium",
+      "Austria",
+      "Switzerland",
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland",
+      "Ireland",
+      "Portugal",
+      "Greece",
+      "Poland",
+      "Czech Republic",
+      "Hungary",
+      "Romania",
+      "Bulgaria",
+      "Croatia",
+      "Singapore",
+      "Brazil",
+      "Argentina",
+      "India",
+      "China"
+    ],
+    "MONGOLIA_VISA_FREE": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Israel",
+      "Germany",
+      "France",
+      "Italy",
+      "Spain",
+      "Turkey",
+      "Russia",
+      "Brazil",
+      "Argentina",
+      "Cuba",
+      "Malaysia",
+      "Thailand",
+      "Philippines",
+      "Kazakhstan",
+      "Belarus",
+      "Ukraine",
+      "Serbia",
+      "Georgia"
+    ]
+  },
+  "visaRules": {
+    "United States-India": {
+      "visaRequired": true,
+      "visaType": "eVisa",
+      "maxStay": "90 days per visit",
+      "documents": [
+        "Valid Passport",
+        "eVisa Approval",
+        "Return/Onward Ticket",
+        "Hotel Booking or Invitation Letter",
+        "Proof of Sufficient Funds"
+      ],
+      "applicationLink": "https://indianvisaonline.gov.in/",
+      "notes": "Indian eVisa can be applied online. Processing takes 3â€“5 business days."
+    },
+    "United States-Australia": {
+      "visaRequired": true,
+      "visaType": "eVisa (ETA)",
+      "maxStay": "90 days per visit",
+      "documents": [
+        "Valid Passport",
+        "ETA Approval",
+        "Return/Onward Ticket",
+        "Proof of Sufficient Funds"
+      ],
+      "applicationLink": "https://immi.homeaffairs.gov.au/",
+      "notes": "US citizens need an Electronic Travel Authority (ETA). Apply online before departure."
+    },
+    "United States-Brazil": {
+      "visaRequired": true,
+      "visaType": "eVisa",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "eVisa Approval",
+        "Return/Onward Ticket",
+        "Proof of Accommodation"
+      ],
+      "applicationLink": "https://www.gov.br/mre/pt-br",
+      "notes": "US citizens need an eVisa to enter Brazil."
+    },
+    "United States-China": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Chinese Visa (L-type)",
+        "Visa Application Form",
+        "Passport Photos",
+        "Itinerary",
+        "Hotel Booking",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.visaforchina.cn/",
+      "notes": "US citizens must apply at a Chinese embassy or consulate. 10-year multiple entry visas available."
+    },
+    "United States-Russia": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "16 days (e-Visa) or per visa",
+      "documents": [
+        "Valid Passport",
+        "Russian Visa",
+        "Invitation Letter",
+        "Travel Insurance",
+        "Application Form"
+      ],
+      "applicationLink": "https://electronic-visa.kdmid.ru/",
+      "notes": "US citizens need a visa. eVisa available for some entry points."
+    },
+    "United States-Turkey": {
+      "visaRequired": true,
+      "visaType": "eVisa",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "eVisa Approval",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "https://www.evisa.gov.tr/",
+      "notes": "US citizens can obtain a Turkish eVisa online. Valid for 90 days."
+    },
+    "United States-Vietnam": {
+      "visaRequired": true,
+      "visaType": "eVisa",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "eVisa Approval",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://evisa.xuatnhapcanh.gov.vn/",
+      "notes": "US citizens can get an eVisa (30 days) or apply for visa on arrival with pre-approval."
+    },
+    "United States-UAE": {
+      "visaRequired": false,
+      "visaType": "Visa on Arrival",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "US citizens receive a 30-day visa on arrival in the UAE."
+    },
+    "United States-Thailand": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "60 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket",
+        "Proof of Accommodation"
+      ],
+      "applicationLink": "",
+      "notes": "US citizens can stay up to 30 days visa-free."
+    },
+    "United States-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "US citizens can stay up to 180 days without a visa."
+    },
+    "United States-Singapore": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket",
+        "SG Arrival Card"
+      ],
+      "applicationLink": "",
+      "notes": "US citizens can stay up to 90 days without a visa."
+    },
+    "United States-South Korea": {
+      "visaRequired": false,
+      "visaType": "Visa-Free (K-ETA)",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "K-ETA Approval",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.k-eta.go.kr/",
+      "notes": "US citizens need K-ETA but no visa for stays up to 90 days."
+    },
+    "Canada-India": {
+      "visaRequired": true,
+      "visaType": "eVisa",
+      "maxStay": "90 days per visit",
+      "documents": [
+        "Valid Passport",
+        "eVisa Approval",
+        "Return/Onward Ticket",
+        "Hotel Booking or Invitation Letter",
+        "Proof of Sufficient Funds"
+      ],
+      "applicationLink": "https://indianvisaonline.gov.in/",
+      "notes": "Canadian citizens can apply for an Indian eVisa online."
+    },
+    "Canada-China": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Chinese Visa",
+        "Application Form",
+        "Photos",
+        "Itinerary"
+      ],
+      "applicationLink": "https://www.visaforchina.cn/",
+      "notes": "Canadian citizens must apply at a Chinese embassy or consulate."
+    },
+    "Canada-United States": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Canadian citizens do not need a visa or ESTA to enter the US for up to 6 months."
+    },
+    "United Kingdom-United States": {
+      "visaRequired": true,
+      "visaType": "ESTA (Visa Waiver)",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "ESTA Approval",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "https://esta.cbp.dhs.gov/",
+      "notes": "UK citizens must obtain ESTA before traveling to the US."
+    },
+    "United Kingdom-India": {
+      "visaRequired": true,
+      "visaType": "eVisa",
+      "maxStay": "90 days per visit",
+      "documents": [
+        "Valid Passport",
+        "eVisa Approval",
+        "Return/Onward Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://indianvisaonline.gov.in/",
+      "notes": "UK citizens can apply for an Indian eVisa online."
+    },
+    "United Kingdom-UAE": {
+      "visaRequired": false,
+      "visaType": "Visa on Arrival",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "UK citizens receive a 30-day visa on arrival in the UAE."
+    },
+    "India-United States": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "US Visa (B1/B2)",
+        "DS-160 Confirmation",
+        "Interview Appointment Letter",
+        "Proof of Ties to Home Country",
+        "Financial Documents",
+        "Passport Photos"
+      ],
+      "applicationLink": "https://ceac.state.gov/genniv/",
+      "notes": "Indian citizens must apply at the US embassy. In-person interview required."
+    },
+    "India-United Kingdom": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "UK Standard Visitor Visa",
+        "Financial Documents",
+        "Accommodation Proof",
+        "Return Ticket",
+        "Employment Letter"
+      ],
+      "applicationLink": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa",
+      "notes": "Indian citizens must apply for a UK Standard Visitor Visa."
+    },
+    "India-Canada": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "Canada Visitor Visa (TRV)",
+        "Financial Documents",
+        "Travel Itinerary",
+        "Proof of Ties to Home Country"
+      ],
+      "applicationLink": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html",
+      "notes": "Indian citizens need a Temporary Resident Visa (TRV) to visit Canada."
+    },
+    "India-Australia": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "3 months",
+      "documents": [
+        "Valid Passport",
+        "Australian Visitor Visa (subclass 600)",
+        "Financial Documents",
+        "Health Insurance",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://immi.homeaffairs.gov.au/",
+      "notes": "Indian citizens must apply for a visitor visa (subclass 600)."
+    },
+    "India-Germany": {
+      "visaRequired": true,
+      "visaType": "Schengen Visa",
+      "maxStay": "90 days within 180-day period",
+      "documents": [
+        "Valid Passport",
+        "Schengen Visa",
+        "Travel Insurance (min â‚¬30,000)",
+        "Hotel Booking",
+        "Financial Documents",
+        "Return Ticket",
+        "Cover Letter"
+      ],
+      "applicationLink": "https://videx.diplo.de/",
+      "notes": "Indian citizens must apply for a Schengen visa at the German embassy/VFS."
+    },
+    "India-France": {
+      "visaRequired": true,
+      "visaType": "Schengen Visa",
+      "maxStay": "90 days within 180-day period",
+      "documents": [
+        "Valid Passport",
+        "Schengen Visa",
+        "Travel Insurance (min â‚¬30,000)",
+        "Hotel Booking",
+        "Financial Documents",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://france-visas.gouv.fr/",
+      "notes": "Indian citizens must apply for a Schengen visa at the French embassy/VFS."
+    },
+    "India-Japan": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "15–90 days",
+      "documents": [
+        "Valid Passport",
+        "Japan Visa",
+        "Invitation or Hotel Booking",
+        "Financial Documents",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.mofa.go.jp/j_info/visit/visa/",
+      "notes": "Indian citizens need a visa to visit Japan. Apply at the Japanese embassy."
+    },
+    "India-UAE": {
+      "visaRequired": true,
+      "visaType": "eVisa / Visa on Arrival",
+      "maxStay": "60 days",
+      "documents": [
+        "Valid Passport",
+        "eVisa or VOA",
+        "Return Ticket",
+        "Hotel Booking",
+        "Proof of Funds"
+      ],
+      "applicationLink": "https://smartservices.icp.gov.ae/",
+      "notes": "Indian citizens with valid US/UK/EU visa may get visa on arrival. Otherwise eVisa required."
+    },
+    "India-Singapore": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "eVisa",
+        "Return Ticket",
+        "Hotel Booking",
+        "Financial Proof"
+      ],
+      "applicationLink": "https://www.ica.gov.sg/",
+      "notes": "Indian citizens need an eVisa for Singapore."
+    },
+    "India-Thailand": {
+      "visaRequired": false,
+      "visaType": "Visa on Arrival",
+      "maxStay": "60 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket",
+        "Hotel Booking",
+        "Proof of Funds (10,000 THB)"
+      ],
+      "applicationLink": "",
+      "notes": "Indian citizens can get a Visa on Arrival in Thailand for up to 15 days."
+    },
+    "India-Malaysia": {
+      "visaRequired": true,
+      "visaType": "eVisa / eNTRI",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "eVisa or eNTRI Note",
+        "Return Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://www.windowmalaysia.my/",
+      "notes": "Indian citizens can apply for eVisa or eNTRI online."
+    },
+    "India-Maldives": {
+      "visaRequired": false,
+      "visaType": "Visa on Arrival",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket",
+        "Hotel Booking",
+        "Proof of Funds"
+      ],
+      "applicationLink": "",
+      "notes": "Indian citizens get a free 30-day visa on arrival in Maldives."
+    },
+    "India-Nepal": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "Unlimited",
+      "documents": [
+        "Valid Passport or Indian Voter ID"
+      ],
+      "applicationLink": "",
+      "notes": "Indian citizens enjoy unrestricted entry to Nepal under the 1950 Treaty of Peace and Friendship. No visa or passport needed — valid ID accepted."
+    },
+    "India-Sri Lanka": {
+      "visaRequired": true,
+      "visaType": "eVisa (ETA)",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "ETA Approval",
+        "Return Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://www.eta.gov.lk/",
+      "notes": "Indian citizens need an Electronic Travel Authorization (ETA) for Sri Lanka."
+    },
+    "India-Indonesia": {
+      "visaRequired": false,
+      "visaType": "Visa on Arrival",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket",
+        "Proof of Funds"
+      ],
+      "applicationLink": "",
+      "notes": "Indian citizens can get a 30-day visa on arrival in Indonesia."
+    },
+    "India-Vietnam": {
+      "visaRequired": true,
+      "visaType": "eVisa",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "eVisa Approval",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://evisa.xuatnhapcanh.gov.vn/",
+      "notes": "Indian citizens can apply for a 30-day eVisa for Vietnam."
+    },
+    "India-South Korea": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Korean Visa",
+        "Financial Documents",
+        "Itinerary",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.visa.go.kr/",
+      "notes": "Indian citizens must apply for a visa at the Korean embassy."
+    },
+    "India-Turkey": {
+      "visaRequired": true,
+      "visaType": "eVisa",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "eVisa Approval",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.evisa.gov.tr/",
+      "notes": "Indian citizens can apply for a Turkish eVisa online."
+    },
+    "China-United States": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "US Visa (B1/B2)",
+        "DS-160 Confirmation",
+        "Interview Appointment",
+        "Financial Documents"
+      ],
+      "applicationLink": "https://ceac.state.gov/genniv/",
+      "notes": "Chinese citizens must apply for a US visa at the embassy."
+    },
+    "China-Japan": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "15–30 days",
+      "documents": [
+        "Valid Passport",
+        "Japan Visa",
+        "Financial Documents",
+        "Itinerary",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.mofa.go.jp/j_info/visit/visa/",
+      "notes": "Chinese citizens need a visa for Japan."
+    },
+    "China-United Kingdom": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "UK Visa",
+        "Financial Documents",
+        "Accommodation Proof",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa",
+      "notes": "Chinese citizens must apply for a UK Standard Visitor Visa."
+    },
+    "China-Thailand": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "60 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Chinese citizens can visit Thailand visa-free for up to 30 days."
+    },
+    "Japan-United States": {
+      "visaRequired": true,
+      "visaType": "ESTA (Visa Waiver)",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "ESTA Approval",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "https://esta.cbp.dhs.gov/",
+      "notes": "Japanese citizens can use the Visa Waiver Program with ESTA."
+    },
+    "Japan-India": {
+      "visaRequired": true,
+      "visaType": "eVisa",
+      "maxStay": "90 days per visit",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "https://indianvisaonline.gov.in/",
+      "notes": "Japanese citizens may be eligible for visa on arrival at select Indian airports."
+    },
+    "Germany-United States": {
+      "visaRequired": true,
+      "visaType": "ESTA (Visa Waiver)",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "ESTA Approval",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "https://esta.cbp.dhs.gov/",
+      "notes": "German citizens can use the Visa Waiver Program with ESTA."
+    },
+    "Germany-India": {
+      "visaRequired": true,
+      "visaType": "eVisa",
+      "maxStay": "90 days per visit",
+      "documents": [
+        "Valid Passport",
+        "eVisa Approval",
+        "Return/Onward Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://indianvisaonline.gov.in/",
+      "notes": "German citizens can apply for an Indian eVisa online."
+    },
+    "France-United States": {
+      "visaRequired": true,
+      "visaType": "ESTA (Visa Waiver)",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "ESTA Approval",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "https://esta.cbp.dhs.gov/",
+      "notes": "French citizens can use the Visa Waiver Program with ESTA."
+    },
+    "France-India": {
+      "visaRequired": true,
+      "visaType": "eVisa",
+      "maxStay": "90 days per visit",
+      "documents": [
+        "Valid Passport",
+        "eVisa Approval",
+        "Return/Onward Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://indianvisaonline.gov.in/",
+      "notes": "French citizens can apply for an Indian eVisa online."
+    },
+    "Australia-United States": {
+      "visaRequired": true,
+      "visaType": "ESTA (Visa Waiver)",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "ESTA Approval",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "https://esta.cbp.dhs.gov/",
+      "notes": "Australian citizens can use the Visa Waiver Program with ESTA."
+    },
+    "Australia-India": {
+      "visaRequired": true,
+      "visaType": "eVisa",
+      "maxStay": "90 days per visit",
+      "documents": [
+        "Valid Passport",
+        "eVisa Approval",
+        "Return/Onward Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://indianvisaonline.gov.in/",
+      "notes": "Australian citizens can apply for an Indian eVisa online."
+    },
+    "UAE-United Kingdom": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "UK Visa",
+        "Financial Documents",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa",
+      "notes": "UAE citizens must apply for a UK Standard Visitor Visa."
+    },
+    "Nigeria-United States": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "US Visa (B1/B2)",
+        "DS-160 Confirmation",
+        "Interview Appointment",
+        "Financial Documents",
+        "Employment Letter"
+      ],
+      "applicationLink": "https://ceac.state.gov/genniv/",
+      "notes": "Nigerian citizens must apply for a US visa at the embassy."
+    },
+    "Nigeria-United Kingdom": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "UK Visa",
+        "Financial Documents",
+        "Accommodation Proof",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa",
+      "notes": "Nigerian citizens must apply for a UK Standard Visitor Visa."
+    },
+    "Pakistan-United States": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "US Visa (B1/B2)",
+        "DS-160 Confirmation",
+        "Interview Appointment",
+        "Financial Documents"
+      ],
+      "applicationLink": "https://ceac.state.gov/genniv/",
+      "notes": "Pakistani citizens must apply for a US visa at the embassy."
+    },
+    "Pakistan-United Kingdom": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "UK Visa",
+        "Financial Documents",
+        "Accommodation Proof",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa",
+      "notes": "Pakistani citizens must apply for a UK Standard Visitor Visa."
+    },
+    "Pakistan-UAE": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "UAE Visa",
+        "Return Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://smartservices.icp.gov.ae/",
+      "notes": "Pakistani citizens need a visa or sponsor to enter UAE."
+    },
+    "Philippines-United States": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "US Visa (B1/B2)",
+        "DS-160 Confirmation",
+        "Interview Appointment",
+        "Financial Documents"
+      ],
+      "applicationLink": "https://ceac.state.gov/genniv/",
+      "notes": "Filipino citizens must apply for a US visa at the embassy."
+    },
+    "Philippines-Japan": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "15 days",
+      "documents": [
+        "Valid Passport",
+        "Japan Visa",
+        "Financial Documents",
+        "Itinerary",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.mofa.go.jp/j_info/visit/visa/",
+      "notes": "Filipino citizens need a visa for Japan."
+    },
+    "Mexico-United States": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "US Visa (B1/B2) or Border Crossing Card",
+        "DS-160 Confirmation"
+      ],
+      "applicationLink": "https://ceac.state.gov/genniv/",
+      "notes": "Mexican citizens need a US visa or Border Crossing Card."
+    },
+    "Mexico-Canada": {
+      "visaRequired": false,
+      "visaType": "eTA Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "eTA Approval"
+      ],
+      "applicationLink": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html",
+      "notes": "Mexican citizens are visa-exempt but need an Electronic Travel Authorization (eTA)."
+    },
+    "South Africa-United States": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "US Visa (B1/B2)",
+        "DS-160 Confirmation",
+        "Financial Documents"
+      ],
+      "applicationLink": "https://ceac.state.gov/genniv/",
+      "notes": "South African citizens must apply for a US visa at the embassy."
+    },
+    "South Africa-United Kingdom": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "UK Visa",
+        "Financial Documents",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa",
+      "notes": "South African citizens need a UK visa."
+    },
+    "Turkey-United States": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "US Visa (B1/B2)",
+        "DS-160 Confirmation",
+        "Interview Appointment"
+      ],
+      "applicationLink": "https://ceac.state.gov/genniv/",
+      "notes": "Turkish citizens must apply for a US visa at the embassy."
+    },
+    "Russia-United States": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "US Visa (B1/B2)",
+        "DS-160 Confirmation",
+        "Interview Appointment"
+      ],
+      "applicationLink": "https://ceac.state.gov/genniv/",
+      "notes": "Russian citizens must apply for a US visa at the embassy."
+    },
+    "Egypt-United States": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "US Visa (B1/B2)",
+        "DS-160 Confirmation",
+        "Financial Documents"
+      ],
+      "applicationLink": "https://ceac.state.gov/genniv/",
+      "notes": "Egyptian citizens must apply for a US visa at the embassy."
+    },
+    "Kenya-United States": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "US Visa (B1/B2)",
+        "DS-160 Confirmation",
+        "Financial Documents"
+      ],
+      "applicationLink": "https://ceac.state.gov/genniv/",
+      "notes": "Kenyan citizens must apply for a US visa at the embassy."
+    },
+    "Canada-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "United Kingdom-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Australia-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Japan-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Germany-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "France-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Italy-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Spain-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Netherlands-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Sweden-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Norway-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Denmark-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Finland-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Switzerland-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Austria-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Belgium-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Portugal-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Ireland-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "New Zealand-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "South Korea-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Singapore-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Israel-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Chile-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Colombia-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Brazil-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Argentina-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Peru-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Uruguay-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Costa Rica-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Panama-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Iceland-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Poland-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Czech Republic-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Hungary-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Greece-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Croatia-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Romania-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Bulgaria-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Slovakia-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Slovenia-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Estonia-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Latvia-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Lithuania-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Luxembourg-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Cyprus-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Turkey-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "Taiwan-Mexico": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport",
+        "FMM Tourist Card (issued at entry)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. FMM tourist permit issued at border/airport for up to 180 days."
+    },
+    "United States-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Canada-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "United Kingdom-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Australia-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Japan-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Germany-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "France-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Italy-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Spain-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "South Korea-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Israel-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Switzerland-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "New Zealand-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Argentina-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Brazil-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Chile-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Peru-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Ecuador-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Bolivia-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Paraguay-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Uruguay-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Costa Rica-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Panama-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "Mexico-Colombia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days (extendable to 180)",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry. Initial 90 days, extendable to 180 days per year at Migración Colombia."
+    },
+    "United States-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Canada-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "United Kingdom-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Australia-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Japan-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Germany-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "France-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Italy-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Spain-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "South Korea-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Israel-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Brazil-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Argentina-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Chile-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Colombia-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Ecuador-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Bolivia-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Paraguay-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Uruguay-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Mexico-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Costa Rica-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Panama-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "Switzerland-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "New Zealand-Peru": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "183 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 183 days per year."
+    },
+    "United States-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "Canada-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "United Kingdom-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "Australia-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "Japan-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "Germany-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "France-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "Italy-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "Spain-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "South Korea-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "Israel-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "Brazil-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "Argentina-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "Chile-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "Colombia-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "Mexico-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "Switzerland-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "New Zealand-Panama": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism up to 180 days."
+    },
+    "United States-Bolivia": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Visa Fee (~$160)",
+        "Yellow Fever Vaccination Certificate"
+      ],
+      "applicationLink": "",
+      "notes": "US citizens can obtain a visa on arrival at major airports or must apply in advance. Yellow fever vaccination required."
+    },
+    "United States-Dominican Republic": {
+      "visaRequired": false,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (included in airfare)"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist card typically included in airline ticket price. Allows 30-day stay, extendable at DGM office."
+    },
+    "Canada-Dominican Republic": {
+      "visaRequired": false,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (included in airfare)"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist card typically included in airline ticket price. Allows 30-day stay, extendable at DGM office."
+    },
+    "United Kingdom-Dominican Republic": {
+      "visaRequired": false,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (included in airfare)"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist card typically included in airline ticket price. Allows 30-day stay, extendable at DGM office."
+    },
+    "Australia-Dominican Republic": {
+      "visaRequired": false,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (included in airfare)"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist card typically included in airline ticket price. Allows 30-day stay, extendable at DGM office."
+    },
+    "Germany-Dominican Republic": {
+      "visaRequired": false,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (included in airfare)"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist card typically included in airline ticket price. Allows 30-day stay, extendable at DGM office."
+    },
+    "France-Dominican Republic": {
+      "visaRequired": false,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (included in airfare)"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist card typically included in airline ticket price. Allows 30-day stay, extendable at DGM office."
+    },
+    "Spain-Dominican Republic": {
+      "visaRequired": false,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (included in airfare)"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist card typically included in airline ticket price. Allows 30-day stay, extendable at DGM office."
+    },
+    "Italy-Dominican Republic": {
+      "visaRequired": false,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (included in airfare)"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist card typically included in airline ticket price. Allows 30-day stay, extendable at DGM office."
+    },
+    "Japan-Dominican Republic": {
+      "visaRequired": false,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (included in airfare)"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist card typically included in airline ticket price. Allows 30-day stay, extendable at DGM office."
+    },
+    "Mexico-Dominican Republic": {
+      "visaRequired": false,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (included in airfare)"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist card typically included in airline ticket price. Allows 30-day stay, extendable at DGM office."
+    },
+    "Brazil-Dominican Republic": {
+      "visaRequired": false,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (included in airfare)"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist card typically included in airline ticket price. Allows 30-day stay, extendable at DGM office."
+    },
+    "Argentina-Dominican Republic": {
+      "visaRequired": false,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (included in airfare)"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist card typically included in airline ticket price. Allows 30-day stay, extendable at DGM office."
+    },
+    "Chile-Dominican Republic": {
+      "visaRequired": false,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (included in airfare)"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist card typically included in airline ticket price. Allows 30-day stay, extendable at DGM office."
+    },
+    "Colombia-Dominican Republic": {
+      "visaRequired": false,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (included in airfare)"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist card typically included in airline ticket price. Allows 30-day stay, extendable at DGM office."
+    },
+    "United States-Jamaica": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "US citizens can visit Jamaica visa-free for up to 90 days."
+    },
+    "United Kingdom-Jamaica": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "UK citizens can visit Jamaica visa-free for up to 6 months."
+    },
+    "Canada-Jamaica": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Canadian citizens can visit Jamaica visa-free for up to 30 days."
+    },
+    "United Kingdom-Thailand": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "60 days",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "UK citizens can enter Thailand visa-free for up to 60 days."
+    },
+    "Canada-Thailand": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "60 days",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Canadian citizens can enter Thailand visa-free for up to 60 days."
+    },
+    "Australia-Thailand": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "60 days",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Australian citizens can enter Thailand visa-free for up to 60 days."
+    },
+    "Japan-Thailand": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "60 days",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Japanese citizens can enter Thailand visa-free for up to 60 days."
+    },
+    "South Korea-Thailand": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "South Korean citizens can enter Thailand visa-free for up to 90 days."
+    },
+    "United Kingdom-Vietnam": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "45 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "UK citizens can enter Vietnam visa-free for up to 45 days (since Aug 2023)."
+    },
+    "Germany-Vietnam": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "45 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "German citizens can enter Vietnam visa-free for up to 45 days (since Aug 2023)."
+    },
+    "France-Vietnam": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "45 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "French citizens can enter Vietnam visa-free for up to 45 days (since Aug 2023)."
+    },
+    "Japan-Vietnam": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "45 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Japanese citizens can enter Vietnam visa-free for up to 45 days (since Aug 2023)."
+    },
+    "South Korea-Vietnam": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "45 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "South Korean citizens can enter Vietnam visa-free for up to 45 days (since Aug 2023)."
+    },
+    "United States-Malaysia": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "US citizens can enter Malaysia visa-free for up to 90 days."
+    },
+    "United States-Indonesia": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Visa on Arrival Fee (~$35)",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "US citizens can get a Visa on Arrival for 30 days, extendable once for 30 more days. Also available as e-VOA online."
+    },
+    "United Kingdom-Indonesia": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Visa on Arrival Fee (~$35)",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "UK citizens can get a Visa on Arrival for 30 days, extendable once for 30 more days."
+    },
+    "United Kingdom-Singapore": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "SG Arrival Card (electronic)"
+      ],
+      "applicationLink": "",
+      "notes": "UK citizens can visit Singapore visa-free for up to 90 days."
+    },
+    "Australia-Singapore": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "SG Arrival Card (electronic)"
+      ],
+      "applicationLink": "",
+      "notes": "Australian citizens can visit Singapore visa-free for up to 90 days."
+    },
+    "Canada-South Korea": {
+      "visaRequired": false,
+      "visaType": "Visa-Free (K-ETA)",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "K-ETA"
+      ],
+      "applicationLink": "https://www.k-eta.go.kr",
+      "notes": "Canadian citizens can visit South Korea visa-free for up to 90 days. K-ETA may be required."
+    },
+    "United Kingdom-South Korea": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "UK citizens can visit South Korea visa-free for up to 90 days."
+    },
+    "United States-Maldives": {
+      "visaRequired": false,
+      "visaType": "Visa on Arrival (Free)",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Hotel Reservation",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "All visitors to the Maldives receive a free 30-day visa on arrival."
+    },
+    "United Kingdom-Maldives": {
+      "visaRequired": false,
+      "visaType": "Visa on Arrival (Free)",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Hotel Reservation",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "All visitors to the Maldives receive a free 30-day visa on arrival."
+    },
+    "United States-Taiwan": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "US citizens can enter Taiwan visa-free for up to 90 days."
+    },
+    "Canada-Taiwan": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Canadian citizens can enter Taiwan visa-free for up to 90 days."
+    },
+    "United Kingdom-Taiwan": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "UK citizens can enter Taiwan visa-free for up to 90 days."
+    },
+    "Japan-Taiwan": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Japanese citizens can enter Taiwan visa-free for up to 90 days."
+    },
+    "India-Taiwan": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Visa or Travel Authorization Certificate"
+      ],
+      "applicationLink": "https://visawebapp.boca.gov.tw",
+      "notes": "Indian citizens need a visa for Taiwan. An online Travel Authorization Certificate may be available for certain qualifying applicants."
+    },
+    "United States-Nepal": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Visa Fee ($125 for 90 days)",
+        "Passport Photos"
+      ],
+      "applicationLink": "",
+      "notes": "US citizens can get a Nepal visa on arrival for 15/30/90 days. Fees: $30 (15 days), $50 (30 days), $125 (90 days)."
+    },
+    "United Kingdom-Nepal": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Visa Fee",
+        "Passport Photos"
+      ],
+      "applicationLink": "",
+      "notes": "UK citizens can get a Nepal visa on arrival for 15/30/90 days."
+    },
+    "United States-Sri Lanka": {
+      "visaRequired": true,
+      "visaType": "ETA (Online Visa)",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "ETA Approval"
+      ],
+      "applicationLink": "https://www.srilankaevisa.lk",
+      "notes": "US citizens must obtain an Electronic Travel Authorization (ETA) before travel. Allows 30-day stay, extendable to 90 days."
+    }
+  },
+  "groupRules": {
+    "EU_to_EU": {
+      "visaRequired": false,
+      "visaType": "Freedom of Movement",
+      "maxStay": "Unlimited (freedom of movement)",
+      "documents": [
+        "Valid Passport or National ID Card"
+      ],
+      "applicationLink": "",
+      "notes": "EU/EEA citizens enjoy freedom of movement and can live and work freely."
+    },
+    "US_VWP_to_US": {
+      "visaRequired": true,
+      "visaType": "ESTA (Visa Waiver)",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "ESTA Approval",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "https://esta.cbp.dhs.gov/",
+      "notes": "Citizens of Visa Waiver Program countries must obtain ESTA. Stays up to 90 days."
+    },
+    "STRONG_to_UK": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Up to 6 months visa-free for tourism/business."
+    },
+    "DEFAULT_to_US": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "US Visa (B1/B2)",
+        "DS-160 Confirmation",
+        "Interview Appointment",
+        "Financial Documents"
+      ],
+      "applicationLink": "https://ceac.state.gov/genniv/",
+      "notes": "A US visa must be obtained from a US embassy or consulate before travel."
+    },
+    "DEFAULT_to_UK": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "UK Visa",
+        "Financial Documents",
+        "Accommodation Proof",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa",
+      "notes": "A UK visa must be applied for before travel."
+    },
+    "DEFAULT_to_SCHENGEN": {
+      "visaRequired": true,
+      "visaType": "Schengen Visa",
+      "maxStay": "90 days within 180-day period",
+      "documents": [
+        "Valid Passport",
+        "Schengen Visa",
+        "Travel Insurance (min â‚¬30,000)",
+        "Hotel Booking",
+        "Financial Documents",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "A Schengen visa is required, applied at the embassy of the main destination."
+    },
+    "STRONG_to_SCHENGEN": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days within 180-day period",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Up to 90 days within a 180-day period in the Schengen Area without a visa."
+    },
+    "DEFAULT_to_CANADA": {
+      "visaRequired": true,
+      "visaType": "Visa Required (TRV)",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "Canada Temporary Resident Visa",
+        "Financial Documents",
+        "Travel Itinerary"
+      ],
+      "applicationLink": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html",
+      "notes": "A Temporary Resident Visa (TRV) is required."
+    },
+    "EXEMPT_to_CANADA": {
+      "visaRequired": false,
+      "visaType": "eTA Required",
+      "maxStay": "6 months",
+      "documents": [
+        "Valid Passport",
+        "eTA Approval"
+      ],
+      "applicationLink": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html",
+      "notes": "Visa-exempt but an eTA required to fly to Canada."
+    },
+    "DEFAULT_to_AUSTRALIA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "3 months",
+      "documents": [
+        "Valid Passport",
+        "Australian Visitor Visa (subclass 600)",
+        "Financial Documents",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://immi.homeaffairs.gov.au/",
+      "notes": "A visitor visa (subclass 600) is required."
+    },
+    "ETA_to_AUSTRALIA": {
+      "visaRequired": true,
+      "visaType": "eVisa (ETA)",
+      "maxStay": "3 months per visit",
+      "documents": [
+        "Valid Passport",
+        "ETA Approval",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "https://immi.homeaffairs.gov.au/",
+      "notes": "An Electronic Travel Authority (ETA) is required. Apply online."
+    },
+    "EVISA_to_AUSTRALIA": {
+      "visaRequired": true,
+      "visaType": "eVisitor (subclass 651)",
+      "maxStay": "3 months",
+      "documents": [
+        "Valid Passport",
+        "eVisitor Approval"
+      ],
+      "applicationLink": "https://immi.homeaffairs.gov.au/",
+      "notes": "Apply free online for an eVisitor visa. Stays up to 3 months."
+    },
+    "ANY_to_INDIA": {
+      "visaRequired": true,
+      "visaType": "eVisa",
+      "maxStay": "90 days per visit",
+      "documents": [
+        "Valid Passport",
+        "eVisa Approval",
+        "Return/Onward Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://indianvisaonline.gov.in/",
+      "notes": "Most nationalities can apply for an Indian eVisa online."
+    },
+    "ANY_to_TURKEY": {
+      "visaRequired": true,
+      "visaType": "eVisa",
+      "maxStay": "90 days within 180 days",
+      "documents": [
+        "Valid Passport",
+        "eVisa Approval",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.evisa.gov.tr/",
+      "notes": "Many nationalities can apply for a Turkish eVisa online."
+    },
+    "STRONG_to_UAE": {
+      "visaRequired": false,
+      "visaType": "Visa on Arrival",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Visa on arrival (30 days) for citizens of strong-passport countries."
+    },
+    "DEFAULT_to_UAE": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "UAE Visa",
+        "Return Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://smartservices.icp.gov.ae/",
+      "notes": "A visa is required. Apply through a sponsor or online."
+    },
+    "STRONG_to_JAPAN": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free stay up to 90 days."
+    },
+    "ANY_to_JAPAN": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Japan Visa",
+        "Financial Documents",
+        "Itinerary",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.mofa.go.jp/j_info/visit/visa/",
+      "notes": "A visa must be obtained from a Japanese embassy or consulate."
+    },
+    "ANY_to_CHINA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Chinese Visa",
+        "Application Form",
+        "Photos",
+        "Itinerary",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://www.visaforchina.cn/",
+      "notes": "Most nationalities need a visa for China."
+    },
+    "ANY_to_RUSSIA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "16 days (e-Visa) or per visa",
+      "documents": [
+        "Valid Passport",
+        "Russian Visa",
+        "Invitation Letter",
+        "Travel Insurance"
+      ],
+      "applicationLink": "https://electronic-visa.kdmid.ru/",
+      "notes": "Most nationalities need a visa for Russia."
+    },
+    "DEFAULT_to_BRAZIL": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Brazil Visa",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.gov.br/mre/pt-br",
+      "notes": "A visa is required for Brazil."
+    },
+    "MERCOSUR_to_BRAZIL": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport or National ID"
+      ],
+      "applicationLink": "",
+      "notes": "MERCOSUR/associate member citizens can enter visa-free."
+    },
+    "STRONG_to_NEW_ZEALAND": {
+      "visaRequired": false,
+      "visaType": "Visa-Free (NZeTA)",
+      "maxStay": "3 months",
+      "documents": [
+        "Valid Passport",
+        "NZeTA (New Zealand Electronic Travel Authority)"
+      ],
+      "applicationLink": "https://nzeta.immigration.govt.nz/",
+      "notes": "Visa-free entry up to 3 months. NZeTA required before travel."
+    },
+    "DEFAULT_to_NEW_ZEALAND": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "3 months",
+      "documents": [
+        "Valid Passport",
+        "New Zealand Visitor Visa",
+        "Financial Documents",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.immigration.govt.nz/",
+      "notes": "A visitor visa is required."
+    },
+    "STRONG_to_ISRAEL": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "3 months",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for up to 90 days for tourism."
+    },
+    "DEFAULT_to_ISRAEL": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "3 months",
+      "documents": [
+        "Valid Passport",
+        "Israeli Visa",
+        "Invitation/Itinerary",
+        "Financial Documents"
+      ],
+      "applicationLink": "https://visa.gov.il/",
+      "notes": "A visa must be obtained from an Israeli embassy or consulate."
+    },
+    "STRONG_to_ARGENTINA": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free for up to 90 days for tourism."
+    },
+    "DEFAULT_to_ARGENTINA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Argentina Visa",
+        "Financial Documents",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.argentina.gob.ar/interior/migraciones",
+      "notes": "A visa is required. Apply at an Argentine consulate."
+    },
+    "STRONG_to_LATAM": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for tourism. Duration varies by destination — check specific country rules."
+    },
+    "DEFAULT_to_LATAM": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Visa",
+        "Financial Documents",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "A visa is required. Apply at the relevant embassy or consulate."
+    },
+    "STRONG_to_EGYPT": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival / e-Visa",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://www.visa2egypt.gov.eg/",
+      "notes": "Visa on arrival ($25 USD) or e-Visa available for eligible nationalities. Up to 30 days."
+    },
+    "DEFAULT_to_EGYPT": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Egyptian Visa",
+        "Financial Documents",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.visa2egypt.gov.eg/",
+      "notes": "A visa must be obtained from an Egyptian embassy or consulate."
+    },
+    "STRONG_to_JORDAN": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Visa on arrival (40 JOD) for eligible nationalities. Free with Jordan Pass."
+    },
+    "DEFAULT_to_JORDAN": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Jordanian Visa",
+        "Financial Documents",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "A visa must be obtained from a Jordanian embassy or consulate."
+    },
+    "ANY_to_CAMBODIA": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival / e-Visa",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Passport Photo",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.evisa.gov.kh/",
+      "notes": "Visa on arrival ($30 USD) or e-Visa ($36) for 30 days. Available to most nationalities."
+    },
+    "STRONG_to_ETHIOPIA": {
+      "visaRequired": true,
+      "visaType": "e-Visa",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "e-Visa Approval",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.evisa.gov.et/",
+      "notes": "e-Visa required. Apply online before travel."
+    },
+    "DEFAULT_to_ETHIOPIA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Ethiopian Visa",
+        "Financial Documents"
+      ],
+      "applicationLink": "https://www.evisa.gov.et/",
+      "notes": "A visa is required. e-Visa or embassy application."
+    },
+    "STRONG_to_KENYA": {
+      "visaRequired": true,
+      "visaType": "eTA (Electronic Travel Authorization)",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "eTA Approval",
+        "Return Ticket",
+        "Yellow Fever Certificate"
+      ],
+      "applicationLink": "https://www.etakenya.go.ke/",
+      "notes": "All visitors require an eTA. Apply online before travel."
+    },
+    "DEFAULT_to_KENYA": {
+      "visaRequired": true,
+      "visaType": "eTA Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "eTA Approval",
+        "Financial Documents",
+        "Yellow Fever Certificate"
+      ],
+      "applicationLink": "https://www.etakenya.go.ke/",
+      "notes": "Kenya eTA required for all visitors. Apply online."
+    },
+    "STRONG_to_TANZANIA": {
+      "visaRequired": true,
+      "visaType": "e-Visa",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "e-Visa Approval",
+        "Return Ticket",
+        "Yellow Fever Certificate"
+      ],
+      "applicationLink": "https://visa.immigration.go.tz/",
+      "notes": "e-Visa required. Apply online before travel ($50 USD)."
+    },
+    "DEFAULT_to_TANZANIA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Tanzanian Visa",
+        "Financial Documents",
+        "Yellow Fever Certificate"
+      ],
+      "applicationLink": "https://visa.immigration.go.tz/",
+      "notes": "A visa is required. e-Visa recommended."
+    },
+    "STRONG_to_SAUDI": {
+      "visaRequired": true,
+      "visaType": "e-Visa",
+      "maxStay": "90 days per visit",
+      "documents": [
+        "Valid Passport",
+        "e-Visa Approval"
+      ],
+      "applicationLink": "https://visa.visitsaudi.com/",
+      "notes": "Tourist e-Visa available online. Multiple entry, up to 90 days per visit."
+    },
+    "DEFAULT_to_SAUDI": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Saudi Visa",
+        "Invitation/Sponsor Letter",
+        "Financial Documents"
+      ],
+      "applicationLink": "https://visa.visitsaudi.com/",
+      "notes": "A visa is required. Embassy application or sponsor needed."
+    },
+    "STRONG_to_QATAR": {
+      "visaRequired": false,
+      "visaType": "Visa on Arrival",
+      "maxStay": "30 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "",
+      "notes": "Visa waiver on arrival for up to 30 days (extendable) for eligible nationalities."
+    },
+    "DEFAULT_to_QATAR": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Qatar Visa",
+        "Return Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://portal.moi.gov.qa/",
+      "notes": "A visa must be obtained through a sponsor or embassy."
+    },
+    "STRONG_to_OMAN": {
+      "visaRequired": true,
+      "visaType": "e-Visa",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "e-Visa Approval",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://evisa.rop.gov.om/",
+      "notes": "Tourist e-Visa available online for 10 or 30 days."
+    },
+    "DEFAULT_to_OMAN": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Omani Visa",
+        "Return Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://evisa.rop.gov.om/",
+      "notes": "A visa is required. Apply through e-Visa or embassy."
+    },
+    "STRONG_to_BAHRAIN": {
+      "visaRequired": true,
+      "visaType": "e-Visa / Visa on Arrival",
+      "maxStay": "14 days (extendable)",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.evisa.gov.bh/",
+      "notes": "e-Visa or Visa on Arrival available for eligible nationalities. Up to 14 days."
+    },
+    "DEFAULT_to_BAHRAIN": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "14 days",
+      "documents": [
+        "Valid Passport",
+        "Bahrain Visa",
+        "Return Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://www.evisa.gov.bh/",
+      "notes": "A visa is required. Apply online or through embassy."
+    },
+    "STRONG_to_KUWAIT": {
+      "visaRequired": true,
+      "visaType": "e-Visa",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "e-Visa Approval",
+        "Return Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://evisa.moi.gov.kw/",
+      "notes": "e-Visa available online for eligible nationalities. Up to 90 days."
+    },
+    "DEFAULT_to_KUWAIT": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Kuwait Visa",
+        "Sponsor Letter",
+        "Financial Documents"
+      ],
+      "applicationLink": "https://evisa.moi.gov.kw/",
+      "notes": "A visa with a local sponsor is required."
+    },
+    "STRONG_to_RWANDA": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival / e-Visa",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket",
+        "Yellow Fever Certificate"
+      ],
+      "applicationLink": "https://irembo.gov.rw/",
+      "notes": "Visa on arrival (30 days, $50) or e-Visa available for all nationalities."
+    },
+    "DEFAULT_to_RWANDA": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival / e-Visa",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket",
+        "Yellow Fever Certificate"
+      ],
+      "applicationLink": "https://irembo.gov.rw/",
+      "notes": "Rwanda offers visa on arrival or e-Visa for all nationalities ($50, 30 days)."
+    },
+    "STRONG_to_GEORGIA": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "1 year",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for 1 year for holders of strong passports."
+    },
+    "DEFAULT_to_GEORGIA": {
+      "visaRequired": true,
+      "visaType": "e-Visa",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "e-Visa Approval",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://www.evisa.gov.ge/",
+      "notes": "e-Visa available. Some nationalities also get visa-free access."
+    },
+    "STRONG_to_SERBIA": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for up to 90 days."
+    },
+    "DEFAULT_to_SERBIA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Serbian Visa",
+        "Financial Documents"
+      ],
+      "applicationLink": "",
+      "notes": "A visa must be obtained from a Serbian embassy or consulate."
+    },
+    "STRONG_to_ALBANIA": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for up to 90 days within 180 days."
+    },
+    "DEFAULT_to_ALBANIA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Albanian Visa",
+        "Financial Documents"
+      ],
+      "applicationLink": "",
+      "notes": "A visa must be obtained from an Albanian embassy or consulate."
+    },
+    "STRONG_to_UKRAINE": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for up to 90 days within 180 days."
+    },
+    "DEFAULT_to_UKRAINE": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Ukrainian Visa",
+        "Financial Documents"
+      ],
+      "applicationLink": "https://visa.mfa.gov.ua/",
+      "notes": "A visa must be obtained from a Ukrainian embassy."
+    },
+    "STRONG_to_MOROCCO": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free for up to 90 days for eligible nationalities."
+    },
+    "DEFAULT_to_MOROCCO": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Moroccan Visa",
+        "Financial Documents",
+        "Hotel Booking"
+      ],
+      "applicationLink": "",
+      "notes": "A visa must be obtained from a Moroccan embassy."
+    },
+    "STRONG_to_TUNISIA": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for up to 90 days."
+    },
+    "DEFAULT_to_TUNISIA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Tunisian Visa",
+        "Financial Documents"
+      ],
+      "applicationLink": "",
+      "notes": "A visa must be obtained from a Tunisian embassy."
+    },
+    "STRONG_to_SOUTH_AFRICA": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for up to 90 days."
+    },
+    "DEFAULT_to_SOUTH_AFRICA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "South African Visa",
+        "Financial Documents",
+        "Yellow Fever Certificate (if applicable)"
+      ],
+      "applicationLink": "http://www.dha.gov.za/",
+      "notes": "A visa must be obtained from a South African embassy."
+    },
+    "STRONG_to_PHILIPPINES": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Return/Onward Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free for up to 30 days for eligible nationalities."
+    },
+    "DEFAULT_to_PHILIPPINES": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Philippine Visa",
+        "Return Ticket",
+        "Financial Documents"
+      ],
+      "applicationLink": "https://consular.dfa.gov.ph/",
+      "notes": "A visa must be obtained from a Philippine embassy."
+    },
+    "ANY_to_LAOS": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Passport Photo",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Visa on arrival ($30-40 USD) for 30 days. Available at most border crossings."
+    },
+    "ANY_to_MOZAMBIQUE": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket",
+        "Yellow Fever Certificate"
+      ],
+      "applicationLink": "",
+      "notes": "Visa on arrival ($50 USD) for 30 days at major airports."
+    },
+    "STRONG_to_MONGOLIA": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free for up to 30 days for eligible nationalities."
+    },
+    "DEFAULT_to_MONGOLIA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Mongolian Visa",
+        "Invitation Letter",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "A visa must be obtained from a Mongolian embassy."
+    },
+    "STRONG_to_MOLDOVA": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free entry for up to 90 days within 180 days."
+    },
+    "DEFAULT_to_MOLDOVA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Moldovan Visa",
+        "Financial Documents"
+      ],
+      "applicationLink": "",
+      "notes": "A visa must be obtained from a Moldovan embassy."
+    },
+    "ANY_to_ALGERIA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Algerian Visa",
+        "Invitation Letter",
+        "Financial Documents",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "All visitors require a visa. Apply at an Algerian embassy."
+    },
+    "ANY_to_IRAN": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival / e-Visa",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Travel Insurance",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://e_visa.mfa.ir/",
+      "notes": "Visa on arrival at Tehran airport for most nationalities (not US/UK/Canada). e-Visa also available."
+    },
+    "ANY_to_PAKISTAN": {
+      "visaRequired": true,
+      "visaType": "e-Visa",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "e-Visa Approval",
+        "Return Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://visa.nadra.gov.pk/",
+      "notes": "e-Visa available for many nationalities. Visa on arrival for some."
+    },
+    "ANY_to_NIGERIA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Nigerian Visa",
+        "Invitation Letter",
+        "Yellow Fever Certificate",
+        "Financial Documents"
+      ],
+      "applicationLink": "https://portal.immigration.gov.ng/",
+      "notes": "A visa must be obtained before travel. Apply at a Nigerian embassy or online."
+    },
+    "ANY_to_GHANA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "60 days",
+      "documents": [
+        "Valid Passport",
+        "Ghanaian Visa",
+        "Yellow Fever Certificate",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "A visa must be obtained from a Ghanaian embassy."
+    },
+    "ANY_to_CAMEROON": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Cameroon Visa",
+        "Yellow Fever Certificate",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "A visa must be obtained from a Cameroonian embassy."
+    },
+    "ANY_to_SENEGAL": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Senegal is visa-free for most nationalities for up to 90 days."
+    },
+    "ANY_to_UGANDA": {
+      "visaRequired": true,
+      "visaType": "e-Visa",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "e-Visa Approval",
+        "Yellow Fever Certificate",
+        "Return Ticket"
+      ],
+      "applicationLink": "https://visas.immigration.go.ug/",
+      "notes": "e-Visa required. Apply online before travel."
+    },
+    "ANY_to_ZAMBIA": {
+      "visaRequired": true,
+      "visaType": "e-Visa / Visa on Arrival",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket",
+        "Yellow Fever Certificate"
+      ],
+      "applicationLink": "https://www.zambiaimmigration.gov.zm/",
+      "notes": "e-Visa or Visa on Arrival available for most nationalities ($50 USD)."
+    },
+    "ANY_to_ZIMBABWE": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival / e-Visa",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket",
+        "Financial Documents"
+      ],
+      "applicationLink": "",
+      "notes": "Visa on arrival ($30-55 USD) at borders and airports for many nationalities."
+    },
+    "ANY_to_LEBANON": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "",
+      "notes": "Visa on arrival for most nationalities (1 month, free). Not available to Israeli passport holders."
+    },
+    "ANY_to_MYANMAR": {
+      "visaRequired": true,
+      "visaType": "e-Visa",
+      "maxStay": "28 days",
+      "documents": [
+        "Valid Passport",
+        "e-Visa Approval",
+        "Return Ticket",
+        "Passport Photo"
+      ],
+      "applicationLink": "https://evisa.moip.gov.mm/",
+      "notes": "e-Visa ($50 USD) required for most nationalities. 28-day tourist stay."
+    },
+    "ANY_to_KAZAKHSTAN": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Kazakhstan offers visa-free entry for up to 30 days for 74+ nationalities including most Western and Asian countries."
+    },
+    "ANY_to_UZBEKISTAN": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Uzbekistan offers visa-free entry for up to 30 days for 90+ nationalities."
+    },
+    "ANY_to_AZERBAIJAN": {
+      "visaRequired": true,
+      "visaType": "e-Visa (ASAN Visa)",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "e-Visa Approval"
+      ],
+      "applicationLink": "https://evisa.gov.az/",
+      "notes": "ASAN e-Visa required ($23). Apply online. 30-day stay."
+    },
+    "ANY_to_ARMENIA": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "180 days",
+      "documents": [
+        "Valid Passport"
+      ],
+      "applicationLink": "",
+      "notes": "Armenia offers visa-free entry for up to 180 days for most nationalities."
+    },
+    "ANY_to_BELARUS": {
+      "visaRequired": false,
+      "visaType": "Visa-Free (limited)",
+      "maxStay": "30 days (via Minsk Airport)",
+      "documents": [
+        "Valid Passport",
+        "Travel Insurance (min â‚¬10,000)"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free for up to 30 days via Minsk Airport for 76+ nationalities. Travel insurance mandatory."
+    },
+    "ANY_to_CUBA": {
+      "visaRequired": true,
+      "visaType": "Tourist Card",
+      "maxStay": "30 days (extendable to 60)",
+      "documents": [
+        "Valid Passport",
+        "Tourist Card (Tarjeta de Turista)",
+        "Travel Insurance",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Tourist Card required ($20-100 depending on nationality). Available through airlines or embassy."
+    },
+    "ANY_to_NORTH_KOREA": {
+      "visaRequired": true,
+      "visaType": "Visa Required (Tour Only)",
+      "maxStay": "Per tour itinerary",
+      "documents": [
+        "Valid Passport",
+        "North Korean Visa",
+        "Approved Tour Booking"
+      ],
+      "applicationLink": "",
+      "notes": "Tourism only through approved tour operators. Visa must be arranged through tour agency. US citizens currently prohibited."
+    },
+    "ANY_to_SOMALIA": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Invitation Letter"
+      ],
+      "applicationLink": "",
+      "notes": "Visa on arrival available at Mogadishu airport. Situation highly volatile â€” check travel advisories."
+    },
+    "ANY_to_YEMEN": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Yemeni Visa",
+        "Invitation Letter"
+      ],
+      "applicationLink": "",
+      "notes": "Visa required. Extreme travel advisory â€” most embassies recommend against travel."
+    },
+    "ANY_to_SUDAN": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Sudanese Visa",
+        "Invitation Letter",
+        "Registration within 3 days"
+      ],
+      "applicationLink": "",
+      "notes": "A visa is required. Apply at a Sudanese embassy. Israeli passport holders denied entry."
+    },
+    "ANY_to_LIBYA": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Libyan Visa",
+        "Invitation Letter"
+      ],
+      "applicationLink": "",
+      "notes": "Visa required. Extremely limited tourism. Check travel advisories."
+    },
+    "ANY_to_IRAQ": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival (Kurdistan) / Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Iraqi Visa or Kurdistan VOA"
+      ],
+      "applicationLink": "",
+      "notes": "Kurdistan Region offers visa on arrival for many nationalities. Federal Iraq requires embassy visa."
+    },
+    "ANY_to_AFGHANISTAN": {
+      "visaRequired": true,
+      "visaType": "Visa Required",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Afghan Visa"
+      ],
+      "applicationLink": "",
+      "notes": "Visa required. Extreme travel advisory â€” most governments advise against all travel."
+    },
+    "ANY_to_BANGLADESH": {
+      "visaRequired": true,
+      "visaType": "Visa on Arrival / e-Visa",
+      "maxStay": "30 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket",
+        "Hotel Booking"
+      ],
+      "applicationLink": "https://visa.gov.bd/",
+      "notes": "Visa on arrival for some nationalities. e-Visa available for others."
+    },
+    "ANY_to_VENEZUELA": {
+      "visaRequired": false,
+      "visaType": "Visa-Free",
+      "maxStay": "90 days",
+      "documents": [
+        "Valid Passport",
+        "Return Ticket"
+      ],
+      "applicationLink": "",
+      "notes": "Visa-free for many nationalities (up to 90 days). Check current conditions and travel advisories."
+    }
+  },
+  "transitRules": {
+    "United States": {
+      "transitVisaRequired": [
+        "Afghanistan",
+        "Algeria",
+        "Bangladesh",
+        "Brazil",
+        "Cambodia",
+        "Cameroon",
+        "China",
+        "Colombia",
+        "Cuba",
+        "Dominican Republic",
+        "Ecuador",
+        "Egypt",
+        "El Salvador",
+        "Ethiopia",
+        "Ghana",
+        "Guatemala",
+        "Honduras",
+        "India",
+        "Indonesia",
+        "Iran",
+        "Iraq",
+        "Jamaica",
+        "Jordan",
+        "Kenya",
+        "Laos",
+        "Lebanon",
+        "Libya",
+        "Mexico",
+        "Mongolia",
+        "Morocco",
+        "Myanmar",
+        "Nepal",
+        "Nicaragua",
+        "Nigeria",
+        "North Korea",
+        "Pakistan",
+        "Paraguay",
+        "Peru",
+        "Philippines",
+        "Russia",
+        "Rwanda",
+        "Saudi Arabia",
+        "Senegal",
+        "Somalia",
+        "South Africa",
+        "Sri Lanka",
+        "Sudan",
+        "Syria",
+        "Tanzania",
+        "Thailand",
+        "Tunisia",
+        "Turkey",
+        "Uganda",
+        "Ukraine",
+        "Uzbekistan",
+        "Venezuela",
+        "Vietnam",
+        "Yemen",
+        "Zambia",
+        "Zimbabwe"
+      ],
+      "notes": "Transit through the US ALWAYS requires ESTA or a valid US visa â€” there is no airside transit.",
+      "applicationLink": "https://esta.cbp.dhs.gov/"
+    },
+    "United Kingdom": {
+      "transitVisaRequired": [
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "Bangladesh",
+        "Belarus",
+        "Cameroon",
+        "China",
+        "Colombia",
+        "Cuba",
+        "Dominican Republic",
+        "Ecuador",
+        "Egypt",
+        "Ethiopia",
+        "Ghana",
+        "India",
+        "Iran",
+        "Iraq",
+        "Jamaica",
+        "Jordan",
+        "Kenya",
+        "Lebanon",
+        "Libya",
+        "Moldova",
+        "Mongolia",
+        "Myanmar",
+        "Nepal",
+        "Nigeria",
+        "North Korea",
+        "Pakistan",
+        "Philippines",
+        "Rwanda",
+        "Senegal",
+        "Serbia",
+        "Somalia",
+        "South Africa",
+        "Sri Lanka",
+        "Sudan",
+        "Syria",
+        "Tanzania",
+        "Thailand",
+        "Tunisia",
+        "Turkey",
+        "Uganda",
+        "Ukraine",
+        "Uzbekistan",
+        "Venezuela",
+        "Vietnam",
+        "Yemen",
+        "Zambia",
+        "Zimbabwe"
+      ],
+      "notes": "Direct Airside Transit Visa (DATV) may be required. Exemptions exist for holders of certain valid visas.",
+      "applicationLink": "https://www.gov.uk/check-uk-visa/y/transit"
+    },
+    "Germany": {
+      "transitVisaRequired": [
+        "Afghanistan",
+        "Bangladesh",
+        "Ethiopia",
+        "Ghana",
+        "India",
+        "Iran",
+        "Iraq",
+        "Nigeria",
+        "Pakistan",
+        "Somalia",
+        "Sri Lanka",
+        "Syria"
+      ],
+      "notes": "Schengen Airport Transit Visa (ATV) required for listed nationalities.",
+      "applicationLink": "https://videx.diplo.de/"
+    },
+    "France": {
+      "transitVisaRequired": [
+        "Afghanistan",
+        "Bangladesh",
+        "Ethiopia",
+        "Ghana",
+        "India",
+        "Iran",
+        "Iraq",
+        "Nigeria",
+        "Pakistan",
+        "Somalia",
+        "Sri Lanka",
+        "Syria"
+      ],
+      "notes": "Schengen Airport Transit Visa (ATV) required for listed nationalities.",
+      "applicationLink": "https://france-visas.gouv.fr/"
+    },
+    "Netherlands": {
+      "transitVisaRequired": [
+        "Afghanistan",
+        "Bangladesh",
+        "Ethiopia",
+        "Ghana",
+        "India",
+        "Iran",
+        "Iraq",
+        "Nigeria",
+        "Pakistan",
+        "Somalia",
+        "Sri Lanka",
+        "Syria"
+      ],
+      "notes": "Schengen ATV required for listed nationalities. Schiphol has good airside transit.",
+      "applicationLink": "https://www.netherlandsworldwide.nl/"
+    },
+    "UAE": {
+      "transitVisaRequired": [],
+      "notes": "Most nationalities can transit through UAE airports without a visa for up to 96 hours.",
+      "applicationLink": ""
+    },
+    "Qatar": {
+      "transitVisaRequired": [],
+      "notes": "Most nationalities can transit through Doha without a visa. Free transit visa available.",
+      "applicationLink": ""
+    },
+    "Japan": {
+      "transitVisaRequired": [],
+      "notes": "Transit passengers staying airside generally do not need a visa. Shore pass available.",
+      "applicationLink": ""
+    },
+    "Singapore": {
+      "transitVisaRequired": [],
+      "notes": "Most nationalities can transit through Changi without a visa if staying airside.",
+      "applicationLink": ""
+    },
+    "South Korea": {
+      "transitVisaRequired": [],
+      "notes": "Transit Without Visa (TWOV) at Incheon for many nationalities up to 72 hours.",
+      "applicationLink": ""
+    },
+    "India": {
+      "transitVisaRequired": [
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "Argentina",
+        "Australia",
+        "Austria",
+        "Bangladesh",
+        "Belgium",
+        "Brazil",
+        "Bulgaria",
+        "Cambodia",
+        "Cameroon",
+        "Canada",
+        "Chile",
+        "China",
+        "Colombia",
+        "Cuba",
+        "Denmark",
+        "Egypt",
+        "Ethiopia",
+        "Finland",
+        "France",
+        "Germany",
+        "Ghana",
+        "Greece",
+        "Hungary",
+        "Indonesia",
+        "Iran",
+        "Iraq",
+        "Ireland",
+        "Israel",
+        "Italy",
+        "Jamaica",
+        "Japan",
+        "Jordan",
+        "Kenya",
+        "Kuwait",
+        "Lebanon",
+        "Libya",
+        "Malaysia",
+        "Mexico",
+        "Mongolia",
+        "Morocco",
+        "Myanmar",
+        "Netherlands",
+        "New Zealand",
+        "Nigeria",
+        "North Korea",
+        "Norway",
+        "Pakistan",
+        "Peru",
+        "Philippines",
+        "Poland",
+        "Portugal",
+        "Qatar",
+        "Romania",
+        "Russia",
+        "Rwanda",
+        "Saudi Arabia",
+        "Senegal",
+        "Singapore",
+        "Somalia",
+        "South Africa",
+        "South Korea",
+        "Spain",
+        "Sri Lanka",
+        "Sudan",
+        "Sweden",
+        "Switzerland",
+        "Syria",
+        "Taiwan",
+        "Tanzania",
+        "Thailand",
+        "Tunisia",
+        "Turkey",
+        "UAE",
+        "Uganda",
+        "Ukraine",
+        "United Kingdom",
+        "United States",
+        "Uruguay",
+        "Uzbekistan",
+        "Venezuela",
+        "Vietnam",
+        "Yemen",
+        "Zambia",
+        "Zimbabwe"
+      ],
+      "notes": "Transit visa required for all foreign nationals passing through Indian immigration.",
+      "applicationLink": "https://indianvisaonline.gov.in/"
+    },
+    "Canada": {
+      "transitVisaRequired": [
+        "Afghanistan",
+        "Algeria",
+        "Bangladesh",
+        "Brazil",
+        "Cambodia",
+        "Cameroon",
+        "China",
+        "Colombia",
+        "Cuba",
+        "Dominican Republic",
+        "Ecuador",
+        "Egypt",
+        "El Salvador",
+        "Ethiopia",
+        "Ghana",
+        "Guatemala",
+        "Honduras",
+        "India",
+        "Indonesia",
+        "Iran",
+        "Iraq",
+        "Jamaica",
+        "Jordan",
+        "Kenya",
+        "Laos",
+        "Lebanon",
+        "Libya",
+        "Mongolia",
+        "Morocco",
+        "Myanmar",
+        "Nepal",
+        "Nicaragua",
+        "Nigeria",
+        "North Korea",
+        "Pakistan",
+        "Paraguay",
+        "Peru",
+        "Philippines",
+        "Russia",
+        "Rwanda",
+        "Saudi Arabia",
+        "Senegal",
+        "Somalia",
+        "South Africa",
+        "Sri Lanka",
+        "Sudan",
+        "Syria",
+        "Tanzania",
+        "Thailand",
+        "Tunisia",
+        "Turkey",
+        "UAE",
+        "Uganda",
+        "Ukraine",
+        "Uzbekistan",
+        "Venezuela",
+        "Vietnam",
+        "Yemen",
+        "Zambia",
+        "Zimbabwe"
+      ],
+      "notes": "Transit may require a Transit Visa or an eTA.",
+      "applicationLink": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html"
+    },
+    "Australia": {
+      "transitVisaRequired": [
+        "Afghanistan",
+        "Algeria",
+        "Bangladesh",
+        "Cambodia",
+        "Cameroon",
+        "China",
+        "Colombia",
+        "Cuba",
+        "Dominican Republic",
+        "Ecuador",
+        "Egypt",
+        "El Salvador",
+        "Ethiopia",
+        "Ghana",
+        "Guatemala",
+        "Honduras",
+        "India",
+        "Indonesia",
+        "Iran",
+        "Iraq",
+        "Jamaica",
+        "Jordan",
+        "Kenya",
+        "Laos",
+        "Lebanon",
+        "Libya",
+        "Mexico",
+        "Mongolia",
+        "Morocco",
+        "Myanmar",
+        "Nepal",
+        "Nicaragua",
+        "Nigeria",
+        "North Korea",
+        "Pakistan",
+        "Paraguay",
+        "Peru",
+        "Philippines",
+        "Russia",
+        "Rwanda",
+        "Saudi Arabia",
+        "Senegal",
+        "Somalia",
+        "South Africa",
+        "Sri Lanka",
+        "Sudan",
+        "Syria",
+        "Tanzania",
+        "Thailand",
+        "Tunisia",
+        "Turkey",
+        "UAE",
+        "Uganda",
+        "Ukraine",
+        "Uzbekistan",
+        "Venezuela",
+        "Vietnam",
+        "Yemen",
+        "Zambia",
+        "Zimbabwe"
+      ],
+      "notes": "Transit visa (subclass 771) required if passing through Australian immigration.",
+      "applicationLink": "https://immi.homeaffairs.gov.au/"
+    },
+    "Turkey": {
+      "transitVisaRequired": [],
+      "notes": "Transit passengers staying airside at Istanbul Airport generally do not need a visa.",
+      "applicationLink": ""
+    },
+    "Brazil": {
+      "transitVisaRequired": [],
+      "notes": "Transit passengers staying airside generally do not need a visa.",
+      "applicationLink": ""
+    },
+    "Malaysia": {
+      "transitVisaRequired": [],
+      "notes": "Transit Without Visa (TWOV) up to 120 hours at KLIA for many nationalities.",
+      "applicationLink": ""
+    },
+    "Thailand": {
+      "transitVisaRequired": [],
+      "notes": "Transit passengers do not need a visa if staying airside at Suvarnabhumi.",
+      "applicationLink": ""
+    },
+    "China": {
+      "transitVisaRequired": [
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "Bangladesh",
+        "Cambodia",
+        "Cameroon",
+        "Cuba",
+        "Ecuador",
+        "Egypt",
+        "El Salvador",
+        "Ethiopia",
+        "Ghana",
+        "Guatemala",
+        "Honduras",
+        "India",
+        "Indonesia",
+        "Iran",
+        "Iraq",
+        "Jamaica",
+        "Jordan",
+        "Kenya",
+        "Laos",
+        "Lebanon",
+        "Libya",
+        "Mexico",
+        "Mongolia",
+        "Morocco",
+        "Myanmar",
+        "Nepal",
+        "Nicaragua",
+        "Nigeria",
+        "North Korea",
+        "Pakistan",
+        "Paraguay",
+        "Peru",
+        "Philippines",
+        "Rwanda",
+        "Saudi Arabia",
+        "Senegal",
+        "Somalia",
+        "South Africa",
+        "Sri Lanka",
+        "Sudan",
+        "Syria",
+        "Tanzania",
+        "Thailand",
+        "Tunisia",
+        "Uganda",
+        "Uzbekistan",
+        "Venezuela",
+        "Vietnam",
+        "Yemen",
+        "Zambia",
+        "Zimbabwe"
+      ],
+      "notes": "24/72/144-hour transit visa exemption at major airports for eligible nationalities.",
+      "applicationLink": ""
+    }
+  },
+  "schengenApplicationLinks": {
+    "Germany": "https://videx.diplo.de/",
+    "France": "https://france-visas.gouv.fr/",
+    "Italy": "https://prenotami.esteri.it/",
+    "Spain": "https://www.exteriores.gob.es/",
+    "Netherlands": "https://www.netherlandsworldwide.nl/",
+    "Austria": "https://www.bmeia.gv.at/",
+    "Belgium": "https://visaonweb.diplomatie.be/",
+    "Switzerland": "https://www.sem.admin.ch/",
+    "Sweden": "https://www.swedenabroad.se/",
+    "Norway": "https://www.udi.no/",
+    "Denmark": "https://www.nyidanmark.dk/",
+    "Finland": "https://migri.fi/",
+    "Greece": "https://www.mfa.gr/",
+    "Portugal": "https://www.vistos.mne.gov.pt/",
+    "Poland": "https://www.gov.pl/web/diplomacy",
+    "Czech Republic": "https://www.mzv.cz/",
+    "Hungary": "https://konzuliszolgalat.kormany.hu/",
+    "Croatia": "https://mvep.gov.hr/",
+    "Romania": "https://evisa.mae.ro/",
+    "Bulgaria": "https://www.mfa.bg/"
+  }
+}

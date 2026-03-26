@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Visa-Free Destinations — Visa Atlas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Animated grid background -->
+  <div class="grid-bg" aria-hidden="true">
+    <canvas id="grid-canvas"></canvas>
+  </div>
+
+  <!-- ====== NAVBAR ====== -->
+  <nav class="navbar">
+    <div class="nav-inner">
+      <a href="/" class="nav-brand">&#9678; Visa Atlas</a>
+      <div class="nav-links">
+        <a href="/" class="nav-link">Requirement Atlas</a>
+        <a href="/visa-free" class="nav-link active">Visa-Free Destinations</a>
+        <a href="/contact" class="nav-link">Contact</a>
+      </div>
+      <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">&#9776;</button>
+    </div>
+  </nav>
+
+  <!-- ====== HEADER ====== -->
+  <header class="header">
+    <div class="header-inner">
+      <h1>Visa-Free<br><span class="light">Destinations</span></h1>
+      <p class="tagline">Discover where your passport can take you <strong>without a traditional visa</strong></p>
+      <div class="header-rule"></div>
+    </div>
+  </header>
+
+  <!-- ====== MAIN ====== -->
+  <main class="container vf-container">
+
+    <!-- ---------- FORM ---------- -->
+    <section class="card form-card">
+      <div class="card-label">Passport</div>
+      <h2>Select Your Nationality</h2>
+
+      <form id="vf-form" novalidate>
+        <div class="form-group">
+          <label for="nationality">Passport Nationality</label>
+          <div class="autocomplete-wrap">
+            <input type="text" id="nationality" placeholder="Start typing a country…" autocomplete="off" required />
+            <ul class="ac-list hidden" id="ac-nationality"></ul>
+          </div>
+          <span class="field-error" id="err-nationality"></span>
+        </div>
+
+        <button type="submit" class="btn" id="submit-btn">
+          <span class="btn-text">Show Visa-Free Destinations</span>
+          <span class="spinner hidden" id="spinner"></span>
+        </button>
+      </form>
+    </section>
+
+    <!-- ---------- RESULTS ---------- -->
+    <section class="card results-card hidden" id="results">
+      <div class="card-label">Results</div>
+      <h2 id="results-heading"></h2>
+
+      <!-- Filter tabs -->
+      <div class="vf-filters" id="vf-filters">
+        <button class="vf-filter active" data-filter="all">All</button>
+        <button class="vf-filter" data-filter="visa-free">Visa-Free</button>
+        <button class="vf-filter" data-filter="on-arrival">On Arrival</button>
+        <button class="vf-filter" data-filter="e-visa">e-Visa / eTA</button>
+      </div>
+
+      <!-- Count -->
+      <p class="vf-count" id="vf-count"></p>
+
+      <!-- Destination grid -->
+      <div class="vf-grid" id="vf-grid"></div>
+    </section>
+
+    <!-- Error toast -->
+    <div class="error-banner hidden" id="error-banner">
+      <p id="error-message"></p>
+      <button class="close-btn" id="close-error">&times;</button>
+    </div>
+  </main>
+
+  <!-- ====== FOOTER ====== -->
+  <footer class="footer">
+    <p>&copy; 2026 Visa &amp; Transit Atlas &mdash; For informational purposes only. Always verify with official government sources.</p>
+  </footer>
+
+  <script src="visa-free.js"></script>
+</body>
+</html>

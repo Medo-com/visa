@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Visa &amp; Transit Requirement Atlas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Animated grid background -->
+  <div class="grid-bg" aria-hidden="true">
+    <canvas id="grid-canvas"></canvas>
+  </div>
+
+  <!-- ====== NAVBAR ====== -->
+  <nav class="navbar">
+    <div class="nav-inner">
+      <a href="/" class="nav-brand">&#9678; Visa Atlas</a>
+      <div class="nav-links">
+        <a href="/" class="nav-link active">Requirement Atlas</a>
+        <a href="/visa-free" class="nav-link">Visa-Free Destinations</a>
+        <a href="/contact" class="nav-link">Contact</a>
+      </div>
+      <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">&#9776;</button>
+    </div>
+  </nav>
+
+  <!-- ====== HEADER ====== -->
+  <header class="header">
+    <div class="header-inner">
+      <h1>Visa &amp; Transit<br><span class="light">Requirement Atlas</span></h1>
+      <p class="tagline">Navigate entry requirements for <strong>115 +</strong> nationalities &amp; destinations</p>
+      <div class="header-rule"></div>
+    </div>
+  </header>
+
+  <!-- ====== MAIN ====== -->
+  <main class="container">
+
+    <!-- ---------- FORM ---------- -->
+    <section class="card form-card">
+      <div class="card-label">Query</div>
+      <h2>Plot Your Route</h2>
+
+      <form id="visa-form" novalidate>
+
+        <!-- Nationality -->
+        <div class="form-group">
+          <label for="nationality">Passport Nationality</label>
+          <div class="autocomplete-wrap">
+            <input type="text" id="nationality" placeholder="Start typing a country…" autocomplete="off" required />
+            <ul class="ac-list hidden" id="ac-nationality"></ul>
+          </div>
+          <span class="field-error" id="err-nationality"></span>
+        </div>
+
+        <!-- Destination -->
+        <div class="form-group">
+          <label for="destination">Destination Country</label>
+          <div class="autocomplete-wrap">
+            <input type="text" id="destination" placeholder="Start typing a country…" autocomplete="off" required />
+            <ul class="ac-list hidden" id="ac-destination"></ul>
+          </div>
+          <span class="field-error" id="err-destination"></span>
+        </div>
+
+        <!-- Transit -->
+        <div class="form-group">
+          <label for="transit-input">Transit / Layover Countries <span class="opt">(optional)</span></label>
+          <div class="autocomplete-wrap">
+            <input type="text" id="transit-input" placeholder="Add a transit country…" autocomplete="off" />
+            <ul class="ac-list hidden" id="ac-transit"></ul>
+          </div>
+          <div class="transit-tags" id="transit-tags"></div>
+          <span class="field-error" id="err-transit"></span>
+        </div>
+
+        <button type="submit" class="btn" id="submit-btn">
+          <span class="btn-text">Check Requirements</span>
+          <span class="spinner hidden" id="spinner"></span>
+        </button>
+      </form>
+    </section>
+
+    <!-- ---------- RESULTS ---------- -->
+    <section class="card results-card hidden" id="results">
+      <div class="card-label">Report</div>
+      <h2 id="result-route"></h2>
+
+      <!-- Visa Info -->
+      <div class="result-block">
+        <div class="status-badge" id="result-status"></div>
+        <table class="info-table" id="result-table"><tbody></tbody></table>
+        <div id="result-documents"></div>
+        <p class="result-notes" id="result-notes"></p>
+        <a class="btn btn-link hidden" id="result-link" href="#" target="_blank" rel="noopener noreferrer">Official Application &rarr;</a>
+      </div>
+
+      <!-- Transit -->
+      <div id="transit-results"></div>
+
+      <!-- Summary -->
+      <div class="summary-box" id="summary-box"></div>
+    </section>
+
+    <!-- Error toast -->
+    <div class="error-banner hidden" id="error-banner">
+      <p id="error-message"></p>
+      <button class="close-btn" id="close-error">&times;</button>
+    </div>
+  </main>
+
+  <!-- ====== FOOTER ====== -->
+  <footer class="footer">
+    <p>&copy; 2026 Visa &amp; Transit Atlas &mdash; For informational purposes only. Always verify with official government sources.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact &mdash; Visa &amp; Transit Atlas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Animated grid background -->
+  <div class="grid-bg" aria-hidden="true">
+    <canvas id="grid-canvas"></canvas>
+  </div>
+
+  <!-- ====== NAVBAR ====== -->
+  <nav class="navbar">
+    <div class="nav-inner">
+      <a href="/" class="nav-brand">&#9678; Visa Atlas</a>
+      <div class="nav-links">
+        <a href="/" class="nav-link">Requirement Atlas</a>
+        <a href="/visa-free" class="nav-link">Visa-Free Destinations</a>
+        <a href="/contact" class="nav-link active">Contact</a>
+      </div>
+      <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">&#9776;</button>
+    </div>
+  </nav>
+
+  <!-- ====== HEADER ====== -->
+  <header class="header">
+    <div class="header-inner">
+      <h1>Get in<br><span class="light">Touch</span></h1>
+      <p class="tagline">Have a question or suggestion? <strong>We&rsquo;d love to hear from you.</strong></p>
+      <div class="header-rule"></div>
+    </div>
+  </header>
+
+  <!-- ====== MAIN ====== -->
+  <main class="container contact-container">
+    <div class="contact-card">
+      <form id="contact-form" novalidate>
+        <div class="form-group">
+          <label for="contact-name">Your Name</label>
+          <input type="text" id="contact-name" placeholder="e.g. John Doe" required />
+          <span class="field-error" id="name-error"></span>
+        </div>
+
+        <div class="form-group">
+          <label for="contact-email">Email Address</label>
+          <input type="email" id="contact-email" placeholder="e.g. you@example.com" required />
+          <span class="field-error" id="email-error"></span>
+        </div>
+
+        <div class="form-group">
+          <label for="contact-subject">Subject</label>
+          <input type="text" id="contact-subject" placeholder="e.g. Visa data correction" required />
+          <span class="field-error" id="subject-error"></span>
+        </div>
+
+        <div class="form-group">
+          <label for="contact-message">Message</label>
+          <textarea id="contact-message" rows="6" placeholder="Write your message here..." required></textarea>
+          <span class="field-error" id="message-error"></span>
+        </div>
+
+        <button type="submit" class="btn" id="contact-btn">Send Message</button>
+      </form>
+
+      <!-- Success / Error banners -->
+      <div class="contact-success" id="contact-success" hidden>
+        <span class="contact-success-icon">&#10003;</span>
+        <p><strong>Message sent!</strong> We&rsquo;ll get back to you as soon as possible.</p>
+      </div>
+
+      <div class="contact-error" id="contact-error-banner" hidden>
+        <p>Something went wrong. Please try again later.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- ====== FOOTER ====== -->
+  <footer class="footer">
+    <p>&copy; 2026 Visa &amp; Transit Atlas &mdash; For informational purposes only. Always verify with official government sources.</p>
+  </footer>
+
+  <script src="contact.js"></script>
+</body>
+</html>
