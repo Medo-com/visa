@@ -16,7 +16,7 @@ A full-stack Node.js application that resolves visa and transit requirements acr
 ![Visa-Free Explorer](screenshots/visa-free-destinations.jpg)
 
 ### Visa-Free Explorer Results
-![Visa-Free Explorer] (screenshots/visa-free-destination-results.jpg)
+![Visa-Free Explorer](screenshots/visa-free-destination-results.jpg)
 
 ### Contact Page
 ![Contact Page](screenshots/contact-page.jpg)
