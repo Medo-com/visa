@@ -241,7 +241,7 @@ Input is sanitized and truncated (name/email: 200 chars, subject: 300 chars, mes
 ## Setup
 
 ```sh
-git clone https://github.com/medo-com/visa-atlas.git
+git clone https://github.com/medosyntax/visa-atlas.git
 cd visa-atlas
 npm install
 npm start
